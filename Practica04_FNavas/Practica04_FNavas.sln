@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica04_FNavas", "Practica04_FNavas\Practica04_FNavas.csproj", "{A2EDCAAE-E729-4938-8099-70C37B5A2F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2EDCAAE-E729-4938-8099-70C37B5A2F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EDCAAE-E729-4938-8099-70C37B5A2F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EDCAAE-E729-4938-8099-70C37B5A2F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EDCAAE-E729-4938-8099-70C37B5A2F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E310CDED-730B-45D4-B6CF-CFA7AD317C0D}
+	EndGlobalSection
+EndGlobal
